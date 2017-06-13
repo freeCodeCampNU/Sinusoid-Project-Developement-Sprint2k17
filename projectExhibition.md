@@ -1,10 +1,15 @@
-# COMPETITION DETAILS
+# COMPETITION DETAILS 
+
+**(Please reconfirm final dates before submission at sinusoid'17@st.niituniversity.in)**
  
-The challenge is simple. Build something using your valuable treasure of knowledge that can help solve an imminent real life problem under one of the topics mentioned below or you can choose your own as imagination has no limits. You can think of it as a virtual hackathon for your summers. We're looking for projects that are powerful in their ability to change and disrupt the present in a positive way. You must register before you begin working on your project. After you register, you will receive an email from us regarding the further code and conduct. **The deadline to register is June 3rd, 2017 and projects are due July 13 2017.** 
+The challenge is simple. Build something using your valuable treasure of knowledge that can help solve an imminent real life problem under one of the topics mentioned below or you can choose your own as imagination has no limits. You can think of it as a virtual hackathon for your summers. We're looking for projects that are powerful in their ability to change and disrupt the present in a positive way. You must register before you begin working on your project. After you register, you will receive an email from us regarding the further code and conduct. **The deadline to register is June 13th, 2017 and projects are due July 13 2017.** 
+
 ## ELIGIBILITY
+
 Creativity and willingness to work hard.
 
 ## COMPETITION TIMELINE (2017)
+
 **Registration Opens   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; June 13th      
 Submission of progress report to be done after every two weeks (further details to be provided after you register)  
 Submission Portal Opens &emsp;&emsp;&emsp;&emsp; July 10th  
